@@ -1,4 +1,4 @@
-// Haider Albassam <haider.albassam@gmx.de>
+// Haider Albassam <SmartAware.de>
 #ifndef BLE400_H
 #define BLE400_H
 
